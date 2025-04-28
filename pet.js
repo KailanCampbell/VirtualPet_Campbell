@@ -1,6 +1,7 @@
 let hunger = 5;
 let energy = 5;
 let happiness = 5;
+let sleep = 10;
 
 setInterval(function() {
   hunger ++;
